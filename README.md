@@ -24,7 +24,7 @@ A play by play guide to all things Scrum and agile based on my experience and tr
 - Pester the team to help each other.
 - In Groomings, refrain from assignment questions.
 - During Sprint, change assignment based on whose court the ball is in.
-- If Stories not complete, close them and create new stories for next sprint with lesser points.
+- If Stories not complete, move them as is to next sprint and earn credit for them there. If you are working with average velocities anyway, this averages out and avoids the risk of overstating velocity.
 
 ## Metrics To Collect
 - Sprint Health = Story points done / story points planned
