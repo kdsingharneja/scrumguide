@@ -1,5 +1,5 @@
-# Scrum  Guide
-A guide to all things scrum and agile based on my experience and training. This is practical setps and not B.S
+# Scrum  Playbook
+A play by play guide to all things Scrum and agile based on my experience and training. This are practical steps based on first hand experience.
 
 ## Scrum Team Size
 5-7, including Dev, Doc, UX and QA. If there are more then break the team up per feature.
@@ -23,11 +23,11 @@ A guide to all things scrum and agile based on my experience and training. This 
 - Pester the team member who always says impedements on similar issues.
 - Pester the team to help each other.
 - In Groomings, refrain from assignment questions.
+- During Sprint, change assignment based on whose court the ball is in.
+- If Stories not complete, close them and create new stories for next sprint with lesser points.
 
 ## Metrics To Collect
 - Sprint Health = Story points done / story points planned
 - Velocity = Story points / Sprint
 - Cycle time = days from start to end
 - A line trend of the 3 above with respect to number of people available
-
-##
